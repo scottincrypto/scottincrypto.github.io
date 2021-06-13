@@ -8,12 +8,12 @@
 <img src="images/Compound volatility thumbnail.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Compound Investment Strategy](https://velocity-app.flipsidecrypto.com/dashboard/compound-strategy-T9e91R)
+<img src="images/compound_investment_strategy.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Impacts of Crypto Price Crash on Compound Users](https://velocity-app.flipsidecrypto.com/dashboard/compound-crash-analysis-W0qWuW)
+<img src="images/compound_price_crash.png?raw=true"/>
 
 ---
 
