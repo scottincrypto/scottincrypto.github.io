@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Flipside Crypto Bounty Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Compound APY Volatility](https://velocity-app.flipsidecrypto.com/dashboard/compound-volatility-CXABJg)
+<img src="images/Compound volatility thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
