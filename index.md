@@ -12,8 +12,7 @@
 <img src="images/compound_investment_strategy.png?raw=true"/>
 
 ---
-[Impacts of Crypto Price Crash on Compound Users](https://velocity-app.flipsidecrypto.com/dashboard/compound-crash-analysis-W0qWuW)
-<img src="images/compound_price_crash.png?raw=true"/>
+
 
 ---
 
