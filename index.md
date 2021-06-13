@@ -20,11 +20,11 @@
 <img src="images/compound_supply_borrow_apy.png?raw=true"/>
 
 ---
-- [Compound Collateralization Ratio](https://datastudio.google.com/s/gWtk3rDTNhs)
-- [Typical Compound Users](https://velocity-app.flipsidecrypto.com/dashboard/typical-compound-users-cds4qg)
-- [Compound Flash Loans](https://velocity-app.flipsidecrypto.com/dashboard/compound-flash-loans-IFYsKr)
-- [Compound Flash Loans & Network Fees](https://velocity-app.flipsidecrypto.com/dashboard/compound-flash-loans-network-fees-WhK2RB)
-- [Compound - Miners & Liquidations](https://velocity-app.flipsidecrypto.com/velocity/dashboard/compound-how-are-miners-benefiting-from-liquidations-NKO6O4)
+[Compound Collateralization Ratio](https://datastudio.google.com/s/gWtk3rDTNhs)
+[Typical Compound Users](https://velocity-app.flipsidecrypto.com/dashboard/typical-compound-users-cds4qg)
+[Compound Flash Loans](https://velocity-app.flipsidecrypto.com/dashboard/compound-flash-loans-IFYsKr)
+[Compound Flash Loans & Network Fees](https://velocity-app.flipsidecrypto.com/dashboard/compound-flash-loans-network-fees-WhK2RB)
+[Compound - Miners & Liquidations](https://velocity-app.flipsidecrypto.com/velocity/dashboard/compound-how-are-miners-benefiting-from-liquidations-NKO6O4)
 
 ---
 
