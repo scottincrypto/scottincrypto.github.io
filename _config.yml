@@ -1,11 +1,16 @@
 title: Scott Simpson # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   Crypto Enthusiast 
   <br><br>
   Data Analytics 
   <br><br>
   <a href="mailto://scottincrypto@gmail.com">scottincrypto@gmail.com</a> 
+  <br><br>
+  <a href"https://twitter.com/scottincrypto">@scottincrypto</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+#setup tutorial at https://blog.usejournal.com/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd
