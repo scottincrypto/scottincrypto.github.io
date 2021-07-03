@@ -1,8 +1,13 @@
 ## Portfolio
 
 ---
-
-### Flipside Crypto Bounty Projects 
+### Flipside Crypto Bounty of the Week (1st July 2021)
+  
+[<img src="images/terra_bsotw_20210703.png?raw=true"/>](https://blog.flipsidecrypto.com/bounty-brief-12/)
+  
+[Featured Uniswap Bounty Dashboard](https://blog.flipsidecrypto.com/best-uniswap-dashboards-july-2/)
+  
+### More Flipside Crypto Bounty Projects 
   
 <img src="images/compound multigraph.png?raw=true"/>  
 
