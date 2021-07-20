@@ -13,6 +13,8 @@
 
 [Flipside Crypto blog featuring my work](https://blog.flipsidecrypto.com/compound-data-dashboards-june-18/)
 
+[Terra Validator Rankings](https://colab.research.google.com/drive/1Doq9pqbA5LmdE-WZ8vNv-7uSVMTgzMPS?usp=sharing#scrollTo=QgsdIVlTIv5e) featured in this [Flipside Crypto blog](https://blog.flipsidecrypto.com/this-weeks-best-terra-data-dashboards/)
+
 [Compound APY Volatility](https://velocity-app.flipsidecrypto.com/dashboard/compound-volatility-CXABJg)  
 [Compound Investment Strategy](https://velocity-app.flipsidecrypto.com/dashboard/compound-strategy-T9e91R)  
 [Impacts of Crypto Price Crash on Compound Users](https://velocity-app.flipsidecrypto.com/dashboard/compound-crash-analysis-W0qWuW)  
