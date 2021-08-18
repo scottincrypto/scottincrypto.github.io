@@ -2,7 +2,7 @@
 
 ---
 
-## [Flipside Crypto](https://flipsidecrypto.com) Grand Prize Winning Bounty Projects
+## Flipside Crypto Prize Winning Bounty Projects
 
 ### Yearn Bounties   
 [Yearn TVL and ROI](https://colab.research.google.com/drive/1PwST7SbP1qkO578OI14OiANaoWMvL_S1?usp=sharing#scrollTo=fM9YEYf4wTBu)   
