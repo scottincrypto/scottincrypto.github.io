@@ -15,8 +15,10 @@
 [Terra Transaction Fees](https://app.flipsidecrypto.com/dashboard/terra-transaction-fees-n2F5wr)   
 [Terra Tax Rate](https://app.flipsidecrypto.com/dashboard/terra-tax-rate-d-P7iA)   
 [Terra Validators Self Delegating](https://app.flipsidecrypto.com/dashboard/terra-validators-self-validating-6XIO4P)   
+[Angel Protocol Delegations](https://colab.research.google.com/drive/1GmQIBN7462W1FkqzHXWC07OOBcADVZCo?usp=sharing#scrollTo=YnXl8q4Bf_Ui)   
 
 ### Uniswap Bounties   
+[Uniswap Fee Volatility](https://app.flipsidecrypto.com/dashboard/uniswap-v-3-fee-volatility-aAJjCv) featured in this [Flipside Crypto Blog](https://blog.flipsidecrypto.com/see-this-weeks-top-uniswap-data-dashboards-august-23/)   
 [Uniswap Voting Power Distribution](https://datastudio.google.com/s/kqXH0Z-rIhc) featured in this [Flipside Crypto Blog](https://blog.flipsidecrypto.com/best-uniswap-dashboards-july-2/)   
 [Defi Users vs Newbies](https://app.flipsidecrypto.com/dashboard/de-fi-users-vs-newbies-k4XAt9)   
 
