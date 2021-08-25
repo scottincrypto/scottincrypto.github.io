@@ -10,7 +10,7 @@
 
 
 ### Terra Network Bounties
-[Exploring Mirror Airdrop](https://app.flipsidecrypto.com/dashboard/exploring-mirror-airdrops-8V2HCr) featured in this [Flipside Crypto blog post](https://blog.flipsidecrypto.com/terra-airdrop-analysis/)
+[Exploring Mirror Airdrop](https://app.flipsidecrypto.com/dashboard/exploring-mirror-airdrops-8V2HCr) featured in this [Flipside Crypto blog post](https://blog.flipsidecrypto.com/terra-airdrop-analysis/)   
 [Terra New User Inflow](app.flipsidecrypto.com/dashboard/terra-new-user-inflow-QIakTM) featured as [Bounty of the Week](https://blog.flipsidecrypto.com/bounty-brief-12/)   
 [Terra Validator Rankings](https://colab.research.google.com/drive/1Doq9pqbA5LmdE-WZ8vNv-7uSVMTgzMPS?usp=sharing#scrollTo=QgsdIVlTIv5e) featured in this [Flipside Crypto blog](https://blog.flipsidecrypto.com/this-weeks-best-terra-data-dashboards/)   
 [Terra Transaction Fees](https://app.flipsidecrypto.com/dashboard/terra-transaction-fees-n2F5wr)   
